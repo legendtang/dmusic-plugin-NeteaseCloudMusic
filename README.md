@@ -18,6 +18,8 @@
 
 支持从网易获取歌词及封面
 
+32O Kbps 支持（嘘..）
+
 ![](https://raw.githubusercontent.com/wu-nerd/dmusic-plugin-NeteaseCloudMusic/master/neteasecloudmusic/images/screenshot003.png)
 ![](https://raw.githubusercontent.com/wu-nerd/dmusic-plugin-NeteaseCloudMusic/master/neteasecloudmusic/images/screenshot004.png)
 
